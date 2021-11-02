@@ -1,6 +1,3 @@
-!pip install cv2
-!pip install pyzbar
-
 import streamlit as st
 import pandas as pd
 import numpy as np
