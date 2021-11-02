@@ -1,8 +1,10 @@
+!pip install cv2
+!pip install pyzbar
+
 import streamlit as st
 import pandas as pd
 import numpy as np
 import cv2
-import numpy as np
 from pyzbar.pyzbar import decode
 from streamlit_webrtc import webrtc_streamer
 import av
