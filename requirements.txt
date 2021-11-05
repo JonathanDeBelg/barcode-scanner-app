@@ -1,3 +1,4 @@
+gcc
 zbar==0.10
 opencv-python-headless
 pyzbar==0.1.8
