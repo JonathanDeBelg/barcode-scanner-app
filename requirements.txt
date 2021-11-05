@@ -1,5 +1,4 @@
-gcc
 zbar==0.10
-opencv-python-headless
+opencv-python-headless==4.5.4.58
 pyzbar==0.1.8
 av==8.0.3
